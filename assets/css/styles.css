@@ -6,7 +6,8 @@
   --header-height: 3.5rem;
 
   /*========== Colors ==========*/
-  --first-color: hsla(290, 93%, 17%, 0.315);
+  
+  --first-color: hsla(268, 55%, 23%, 0.829);
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 21%);
   --title-color: hsl(0, 0%, 0%);
@@ -109,7 +110,7 @@ button {
 /*=============== THEME ===============*/
 /*========== Variables Dark theme ==========*/
 body.dark-theme {
-  --first-color: hsla(283, 54%, 23%, 0.692);
+  --first-color: hsla(258, 93%, 17%, 0.301);
   --button-color: hsl(0, 0%, 24%);
   --button-color-alt: hsl(0, 0%, 0%);
   --title-color: hsl(0, 0%, 100%);
@@ -712,12 +713,12 @@ body.dark-theme {
 
 .newsletter__title {
   font-size: var(--h1-font-size);
-  color: hsl(0, 0%, 15%);
+  color: hsl(0, 0%, 100%);
   margin-bottom: var(--mb-1-5);
 }
 
 .newsletter__description {
-  color: hsl(0, 0%, 35%);
+  color: hsl(0, 0%, 100%);
 }
 
 .newsletter__subscribe {
